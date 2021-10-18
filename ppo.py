@@ -677,8 +677,6 @@ class Main:
 
 # ## Run it
 if __name__ == "__main__":
-    experiment.create()
     m = Main()
-    experiment.start()
     m.run_training_loop()
     m.destroy()
