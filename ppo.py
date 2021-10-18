@@ -15,6 +15,7 @@ And the web version of the tutorial is available
 If someone reading this has any questions or comments
  please find me on Twitter, **[@vpj](https://twitter.com/vpj)**.
 """
+import labml
 
 
 class Game:
